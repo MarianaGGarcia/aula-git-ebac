@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Mariana
+-Profissão: Freelancer
+-Cidade:Nova Serrana Minas Gerais
+-O que faz nas horas vaga: Assisto filmes 
+-Feedback sobre o curso Qualidade de Software: Muito bom , estou aprendendo varias coisas novas
+-Feedback sobre a plataforma de estudo da EBAC: Muito dinamica e de facil compreendimento 
+
+Obrigado!!!
+
+
